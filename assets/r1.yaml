@@ -1,0 +1,14 @@
+rules:
+  -
+    if: x1 == 2
+    then:
+      file: "f1.yaml"
+      variables: 
+        is: "Availability"
+
+  -
+    if: y1 == 1
+    then:
+      file: "f1.yaml"
+      variables: 
+        is: "Lack"
