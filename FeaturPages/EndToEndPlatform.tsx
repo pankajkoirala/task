@@ -2,7 +2,7 @@ import { data } from "@/constant/data"
 import Image from "next/image"
 import dataExtraction from "@/assets/dataExtraction.png"
 import dataFetching from "@/assets/dataFetching.png"
-import dataQuality from "@/assets/dataQuality.png"
+import dataQuality from "@/assets/DataQuality.jpg"
 import dataTransformation from "@/assets/dataTransformation.png"
 import reporting from "@/assets/reporting.png"
 
